@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "b3c007fa398570ff379d6d13",
+  "owner": "fwsjtymby",
+  "repo": "page-d95cb8da515959925cce68d8",
+  "title": "Walless",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d95cb8da515959925cce68d8",
+      "a": "Walless",
+      "b": "clash verge机场推荐",
+      "entity": "Walless",
+      "brand": "Walless",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "74c36bf1f6b65d0e3cb623cc954651ee91293b1931e589b9b313442fda7df4b6",
+      "content": {
+        "primary_entity": "Walless",
+        "keyword1": "Walless",
+        "keyword2": "clash verge机场推荐",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、iOS、Android 各有对应客户端，按系统选择即可。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLOSING_TEXT": "选好套餐，按客户端文档配置订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置 Walless",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置和套餐对比展开，基础版适合轻量使用，旗舰版提供 IPLC 专线与原生流媒体解锁，团队版面向多设备与企业路由需求。",
+          "AI_FEATURES_INTRO": "从套餐、设备数和订阅周期三方面快速了解。",
+          "AI_FEATURES_TITLE": "Walless 核心特点",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按用量选择。",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，覆盖个人与团队。",
+          "AI_FEATURE_TEXT_3": "月付灵活，年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850。",
+          "AI_FEATURE_TITLE_1": "流量梯度分明",
+          "AI_FEATURE_TITLE_2": "设备数按需匹配",
+          "AI_FEATURE_TITLE_3": "周期与价格清晰",
+          "AI_GUIDE_INTRO": "从选套餐到配置订阅，三步完成。",
+          "AI_GUIDE_TITLE": "Walless 使用指南",
+          "AI_HERO_INTRO": "Walless 提供多档套餐，适合个人、家庭与团队使用。基础版满足日常浏览，旗舰版解锁流媒体并优化游戏专线，团队版面向多设备协同与企业路由。",
+          "AI_HERO_SUBTITLE": "多设备订阅，套餐灵活可选",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，含 100GB 流量",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线与流媒体解锁",
+          "AI_HIGHLIGHT_3": "团队版支持 20 台设备与定制路由",
+          "AI_PLANS_INTRO": "基础版、旗舰版、团队版三档，按流量与设备数选择；年付更划算。",
+          "AI_PLANS_TITLE": "对比 Walless 套餐",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数，从基础版、旗舰版、团队版中挑选。",
+          "AI_STEP_TEXT_2": "确认客户端支持的系统与设备数量要求，匹配对应套餐权益。",
+          "AI_STEP_TEXT_3": "参照所用客户端的订阅配置文档，导入订阅信息并启用。",
+          "AI_STEP_TITLE_1": "确定套餐档位",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "Walless 多档加速方案",
+          "AI_FAQ_ANSWER_1": "基础版适合一两台设备、每月流量 100GB 以内的用户；旗舰版适合三到五台设备、有流媒体和游戏需求，每月 300GB 流量；团队版面向二十台设备同时在线、月流量 1000GB 的场景。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。设备数指同一时间保持连接的终端数量，手机、电脑、平板分别计算。",
+          "AI_FAQ_ANSWER_3": "可以。年付把 12 个月按 10 个月计费，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，比月付分别节省 ¥30、¥70、¥170。",
+          "AI_FAQ_ANSWER_4": "在客户端中导入订阅地址或二维码，选择延迟较低的节点后连接。不同系统的客户端导入位置不同，参照对应客户端的使用说明操作即可。",
+          "AI_FAQ_ANSWER_5": "流量按自然月计算，月底清零不结转。如需更大流量可随时升级到更高一档套餐，升级后新流量额度当月生效。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "三档套餐分别适合什么使用场景？",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "按年付能比月付省多少钱？",
+          "AI_FAQ_QUESTION_4": "如何在客户端里配置订阅？",
+          "AI_FAQ_QUESTION_5": "流量用完后会怎样，可以升级套餐吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "1881476ad69737e0e16d86ffb716f7ad4d7536cadcfc3b61dd0af331d8bc1895",
+    "sitemap.xml": "dc1cdcf5c79c346029b16da176b8dba1ebfa2794c70bb5dbd44d74e860cde749",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "51bae6e61ce6a2cdd46d3f6d12292c2ccf6cc15b0f74841581fedbfffa96557d"
+}
